@@ -1,10 +1,17 @@
 ---
-title: Welcome to Quartz
+title: Main Page
 draft: false
+cssclasses:
+  - dashboard
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Who am I
 
+André M. Silva (@Kamuish on github)
 
-[[Class 1]]
+email: Andre.Silva@astro.up.pt
+
+# Relevant Links:
+
+- [[Classes]]
+- [[Map of Python]]

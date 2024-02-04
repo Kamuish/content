@@ -1,9 +1,14 @@
 ---
-title: "Teste"
+title: Overview of practical classes
 draft: false
+tags:
 ---
+# Análise de Dados em Física e Astronomia
 
-# 1st Practical class 
+Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=527300 
+
+
+## 1st Practical class 
 
 Date: 12 February 2024
 email: Andre.Silva@astro.up.pt 
