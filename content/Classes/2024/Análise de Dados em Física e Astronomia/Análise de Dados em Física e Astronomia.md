@@ -1,5 +1,5 @@
 ---
-title: Overview of practical classes
+title: Análise de Dados em Física e Astronomia
 draft: false
 tags:
 ---
