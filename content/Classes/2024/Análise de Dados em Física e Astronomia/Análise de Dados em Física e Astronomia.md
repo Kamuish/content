@@ -6,15 +6,9 @@ tags:
 # Análise de Dados em Física e Astronomia
 
 Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=527300 
-
-
-## 1st Practical class 
-
-Date: 12 February 2024
-email: Andre.Silva@astro.up.pt 
-
+ 
 --- 
-## Schedule of the classes 
+## Work plan for the classes 
 
 - First 2 classes: refreshing the basics of *python*:
 	- Basic Python
@@ -26,9 +20,10 @@ email: Andre.Silva@astro.up.pt
 ---
 ## Links for the materials:
 
-- [Basic Python](Class1_theo.ipynb)
+- [Basic Python](basicPython.ipynb)
 - [[Virtual Environments]]
-- [Numpy basics](Class2_theo.ipynb)
-- [Scipy basics](Class3_theo.ipynb)
+- [Numpy basics](Numpy.ipynb)
+- [Scipy](Scipy.ipynb)
+- [Data Visualization](DataVisualization.ipynb)
 
 ---
