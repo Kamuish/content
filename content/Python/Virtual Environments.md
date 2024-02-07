@@ -55,4 +55,5 @@ pip install -r requirements.txt
 
 > [!info] References
 > https://docs.python.org/3/library/venv.html
+> 
 > https://pip.pypa.io/en/stable/user_guide/
