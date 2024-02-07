@@ -1,7 +1,7 @@
 ---
 title: Map of Python
 draft: false
-tags:
+tags: python
 ---
 # Map of Python
 

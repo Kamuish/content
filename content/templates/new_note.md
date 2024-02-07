@@ -1,6 +1,6 @@
 ---
 title: <%tp.file.title%>
 draft: true
-tags:
+tags: year/<%tp.date.now("YYYY")%>
 ---
 # <%tp.file.title%>

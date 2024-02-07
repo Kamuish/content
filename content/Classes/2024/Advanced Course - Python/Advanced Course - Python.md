@@ -1,5 +1,14 @@
 ---
 title: Advanced Course - Python
 draft: false
+tags: python, classes, CAUP, year/2024
 ---
 # Advanced Course - Python
+
+CAUP's advanced course: Python
+Instructors: André M. Silva, Jorge H. Martins
+
+## Relevant links:
+
+- [[Virtual Environments]]
+- Github [link](https://github.com/iastro-pt/IAPythonCourses/tree/2024_edition)
