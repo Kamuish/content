@@ -1,6 +1,7 @@
 ---
 title: Virtual environments in Python
 draft: false
+tags: python
 ---
 
 # Virtual environments in Python 
