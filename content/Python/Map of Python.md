@@ -5,6 +5,5 @@ tags:
 ---
 # Map of Python
 
-## Installation
 
 [[Virtual Environments]]
