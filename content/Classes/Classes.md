@@ -12,4 +12,3 @@ cssclasses:
 
 - 📊 [[Análise de Dados em Física e Astronomia]]
 - 🐍 [[Advanced Course - Python]]
-

@@ -7,7 +7,8 @@ tags: python, classes, fcup/DFA, year/2024
 # Análise de Dados em Física e Astronomia
 
 Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=527300 
- e-mail: up710610@up.pt
+
+ e-mail: andsilva@fc.up.pt
  
 --- 
 ## Work plan for the classes 
