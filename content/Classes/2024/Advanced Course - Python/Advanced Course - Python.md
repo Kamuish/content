@@ -1,7 +1,7 @@
 ---
 title: Advanced Course - Python
 draft: false
-tags: python, classes, CAUP, year/2024
+tags: classes/python, CAUP, year/2024
 ---
 # Advanced Course - Python
 
