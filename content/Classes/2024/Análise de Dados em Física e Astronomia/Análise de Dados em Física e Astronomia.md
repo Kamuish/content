@@ -31,10 +31,7 @@ Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrenc
 
 - Astropy:
 	- [notebook](astropy.ipynb)
-	- [fits file for the notebook](files/ESPRESSO.fits)
-	- [teste](Espresso.fits)
-	- [teste2](files/requirements.txt)
-	- [teste3](requirements.txt)
+	- [fits file for the notebook](ESPRESSO.fits)
 	- [[Astropy|link with more details]]
 
 #### Practical exercises:
@@ -71,5 +68,6 @@ Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrenc
 ### Class 1: 20/02/2024
 
 - [Basic Python](basicPython.ipynb)
+-  [requirements.txt](requirements.txt) file (see [[Virtual Environments#Installation of libraries|pip specification]] )
 - [[Virtual Environments]]
 ---
