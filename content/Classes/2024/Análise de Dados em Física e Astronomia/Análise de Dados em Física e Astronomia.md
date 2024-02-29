@@ -1,7 +1,7 @@
 ---
 title: Análise de Dados em Física e Astronomia
 draft: false
-tags: classes/python, fcup/DFA, year/2024
+tags: classes/python, classes/physics, fcup/DFA, year/2024
 ---
 
 # Análise de Dados em Física e Astronomia

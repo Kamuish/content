@@ -39,11 +39,8 @@ with fits.open(s2d_file) as hdu:
 - [fitsheader](https://docs.astropy.org/en/stable/io/fits/usage/scripts.html#module-astropy.io.fits.scripts.fitsheader)
 
 
-```ad-abstract
-title: References
-
-https://docs.astropy.org/en/stable/
-https://docs.astropy.org/en/stable/io/fits/
-```
+> [!NOTE] References
+> https://docs.astropy.org/en/stable/
+> https://docs.astropy.org/en/stable/io/fits/
 
 # Handling units
