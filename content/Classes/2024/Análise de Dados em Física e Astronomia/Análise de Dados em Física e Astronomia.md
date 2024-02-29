@@ -31,7 +31,7 @@ Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrenc
 
 - Astropy:
 	- [notebook](astropy.ipynb)
-	- [fits file for the notebook](ESPRESSO.fits)
+	- [fits file for the notebook](Espresso.fits)
 	- [[Astropy|link with more details]]
 
 #### Practical exercises:
