@@ -32,6 +32,7 @@ Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrenc
 - Astropy:
 	- [notebook](astropy.ipynb);
 	- [fits file for the notebook](files/ESPRESSO.fits);
+	- [teste](ESPRESSO.fits)
 	- [[Astropy|link with more details]]
 
 #### Practical exercises:
@@ -49,7 +50,7 @@ Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrenc
 	- mirror (d c b | a b c d | c b a) - The input is extended by reflecting about the center of the last pixel. This mode is also sometimes referred to as whole-sample symmetric.
 	- wrap (a b c d | a b c d | a b c d) - The input is extended by wrapping around to the opposite edge.
 
-2) Open the [fits file](resources/r.ESPRE.2019-07-24T00:09:54.984_S2D_BLAZE_A.fits) and load ESPRESSO data.
+2) Open the [fits file](resources/ESPRESSO.fits) and load ESPRESSO data.
 
 3) Apply the median filter to each spectral order using different window sizes.
 
