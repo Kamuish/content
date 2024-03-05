@@ -59,6 +59,9 @@ Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrenc
 
 5) Compare your results with those from scipy's [median filter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.median_filter.html#scipy.ndimage.median_filter)
 
+> [!NOTE] Possible solution for the implementation of the median filter
+> Final cell in the solution notebook of [CAUP's python course](https://github.com/iastro-pt/IAPythonCourses/blob/main/Class_1/Class1_solutions.ipynb)
+
 ### Class 2: 27/02/2024
 
 - [Numpy basics](Numpy.ipynb)
