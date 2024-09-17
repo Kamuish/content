@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
-aliases: HARPS-N
+aliases:
+  - HARPS-N
+draft: true
 ---
 

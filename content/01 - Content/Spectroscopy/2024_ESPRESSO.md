@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
-aliases: ESPRESSO
+aliases:
+  - ESPRESSO
+draft: true
 ---
 

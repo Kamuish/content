@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
-aliases: NIRPS
+aliases:
+  - NIRPS
+draft: true
 ---
 

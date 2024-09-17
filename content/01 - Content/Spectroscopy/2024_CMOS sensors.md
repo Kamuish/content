@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
-aliases: CMOS sensors
+aliases:
+  - CMOS sensors
+draft:
 ---
 

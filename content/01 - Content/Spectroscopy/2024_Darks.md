@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
-aliases: Darks
+aliases:
+  - Darks
+draft: true
 ---
 

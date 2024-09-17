@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
-aliases: Stellar activity
+aliases:
+  - Stellar activity
+draft: true
 ---
 

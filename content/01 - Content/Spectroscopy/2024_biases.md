@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
-aliases: biases
+aliases:
+  - biases
+draft: true
 ---
 

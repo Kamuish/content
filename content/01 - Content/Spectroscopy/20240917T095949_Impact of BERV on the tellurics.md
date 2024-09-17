@@ -1,7 +1,9 @@
 ---
 tags:
   - concept
-aliases: Impact of BERV on the tellurics
+aliases:
+  - Impact of BERV on the tellurics
+draft: false
 ---
 # Impact of BERV on the tellurics
 

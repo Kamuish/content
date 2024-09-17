@@ -1,7 +1,9 @@
 ---
 tags:
   - concept
-aliases: Telluric contamination on the stellar spectra
+aliases:
+  - Telluric contamination on the stellar spectra
+draft:
 ---
 # Telluric contamination on the stellar spectra
 

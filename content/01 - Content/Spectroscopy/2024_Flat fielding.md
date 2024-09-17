@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
-aliases: Flat fielding
+aliases:
+  - Flat fielding
+draft: true
 ---
 

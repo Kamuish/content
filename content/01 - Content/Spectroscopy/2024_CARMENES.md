@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
-aliases: CARMENES
+aliases:
+  - CARMENES
+draft: true
 ---
 
