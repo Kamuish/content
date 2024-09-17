@@ -49,7 +49,7 @@ Course page: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrenc
 	- mirror (d c b | a b c d | c b a) - The input is extended by reflecting about the center of the last pixel. This mode is also sometimes referred to as whole-sample symmetric.
 	- wrap (a b c d | a b c d | a b c d) - The input is extended by wrapping around to the opposite edge.
 
-2) Open the [fits file](ESPRESSO.fits) and load ESPRESSO data.
+2) Open the [fits file](Espresso.fits) and load ESPRESSO data.
 
 3) Apply the median filter to each spectral order using different window sizes.
 
