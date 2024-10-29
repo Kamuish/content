@@ -1,7 +1,7 @@
 ---
 tags:
-  - sub-MoC
-draft:
+  - MoC
+draft: false
 ---
 # Instrumentation 
 ## Imaging sensors

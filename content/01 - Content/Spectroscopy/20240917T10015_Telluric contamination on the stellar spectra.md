@@ -3,7 +3,7 @@ tags:
   - concept
 aliases:
   - Telluric contamination on the stellar spectra
-draft:
+draft: false
 ---
 # Telluric contamination on the stellar spectra
 

@@ -14,4 +14,4 @@ email: Andre.Silva@astro.up.pt
 # Relevant Links:
 
 - [[Classes]]
-- [[Map of Python]]
+- [[Map of concepts]]
