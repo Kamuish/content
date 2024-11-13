@@ -70,6 +70,9 @@ with fits.open(your_path_to_calibration_file) as hdu:
 ```
 
 
+> [!NOTE] hint
+> To help plot the raw images, you can use a convenience function from astropy's "CCD Data Reduction Guide", the *show_image* functions from this [file](https://github.com/astropy/ccd-reduction-and-photometry-guide/blob/2955900284dd288e835054857a0a2fad5a5e5235/notebooks/convenience_functions.py#L7) 
+
 ## Assumptions:
 
 1) The flat field observations have a very high SNR and we can ignore noise sources (read noise / dark current)
