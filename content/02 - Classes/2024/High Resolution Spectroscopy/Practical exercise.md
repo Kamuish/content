@@ -41,7 +41,10 @@ Without using the data, discuss the following topics:
 
 The data can be accessed in the following way (through python):
 ```python
-with fits.open(simulated_raws / "raw_0.fits") as hdu:
+from astropy.io import fits 
+
+your_path_to_raw_file = "raw_0.fits"
+with fits.open(your_path_to_raw_file) as hdu:
 	head = hdu[0].header
 	wavelength = hdu[0].data
 	raw_science = hdu[1].data
@@ -53,7 +56,18 @@ with fits.open(simulated_raws / "raw_0.fits") as hdu:
 	overscan = head["CCD PIXEL OFFSET"]
 ```
 
-**Calibration images:** The images are provided in the same orientation as the raw image
+
+**Calibration images:** The images are provided in the same orientation as the raw image, they can be also opened through *astropy*:
+
+```python
+from astropy.io import fits 
+
+your_path_to_calibration_file = "darks_0.fits"
+with fits.open(your_path_to_calibration_file) as hdu:
+	head = hdu[0].header
+	calibration_data = hdu[0].data
+
+```
 
 
 ## Assumptions:
