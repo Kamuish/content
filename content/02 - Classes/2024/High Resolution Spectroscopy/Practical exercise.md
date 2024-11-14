@@ -17,6 +17,7 @@ The goals are:
 1) Use the calibration images to calibrate the science image;
 2) Extract the spectra from the raw image and compare it against one obtained from non-calibrated images;
 3) Compare the retrieved spectra against the injected one (see [[#^ab45d2|Data description for details]])
+4) *Optional:* Compute the cross-correlation profile of the order
 
 Without using the data, discuss the following topics:
 
